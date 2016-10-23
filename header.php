@@ -22,6 +22,13 @@
 	<?php wp_head(); ?>
 </head>
 <body>
-	<header class="header">
-		<!-- Vous pouvez mettre ici toutes les infos que vous voulez retrouver dans le header de toutes vos pages  -->
+<header class="header">
+    <img class="logo" src="chatonheader.jpg" alt="chaton mignon" title="chaton mignon">
+    <nav>
+      <ul>
+        <li>Accueil</li>
+        <li>Liste 1</li>
+        <li>Liste 2</li>
+      </ul>
+    </nav>
 	</header>
